@@ -1,0 +1,201 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="850" height="480" viewBox="0 0 850 480">
+  <defs>
+    <style>
+      @keyframes blink {
+        0%, 49% { opacity: 1; }
+        50%, 100% { opacity: 0; }
+      }
+      @keyframes glowPulse {
+        0%, 100% { filter: drop-shadow(0 0 6px #FF0040) drop-shadow(0 0 12px #FF004066); }
+        50% { filter: drop-shadow(0 0 14px #FF0040) drop-shadow(0 0 28px #FF004088); }
+      }
+      @keyframes goldPulse {
+        0%, 100% { filter: drop-shadow(0 0 4px #FFD700) drop-shadow(0 0 8px #FFD70044); }
+        50% { filter: drop-shadow(0 0 10px #FFD700) drop-shadow(0 0 20px #FFD70066); }
+      }
+      @keyframes spotFloat1 {
+        0%, 100% { opacity: 0.04; transform: scale(1); }
+        50% { opacity: 0.09; transform: scale(1.15); }
+      }
+      @keyframes spotFloat2 {
+        0%, 100% { opacity: 0.06; transform: scale(1.1); }
+        50% { opacity: 0.03; transform: scale(0.9); }
+      }
+      @keyframes statusDot {
+        0%, 100% { fill: #28C840; }
+        50% { fill: #28C84088; }
+      }
+      @keyframes scanline {
+        0% { transform: translateY(-10px); opacity: 0; }
+        10% { opacity: 0.03; }
+        90% { opacity: 0.03; }
+        100% { transform: translateY(430px); opacity: 0; }
+      }
+      .cursor { animation: blink 1s step-end infinite; }
+      .glow-red { animation: glowPulse 3s ease-in-out infinite; }
+      .glow-gold { animation: goldPulse 4s ease-in-out infinite; }
+      .spot1 { animation: spotFloat1 6s ease-in-out infinite; }
+      .spot2 { animation: spotFloat2 8s ease-in-out infinite; }
+      .status-dot { animation: statusDot 2s ease-in-out infinite; }
+      .scanline { animation: scanline 4s linear infinite; }
+    </style>
+    <linearGradient id="neonRed" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FF0040"/>
+      <stop offset="40%" stop-color="#FF2D55"/>
+      <stop offset="60%" stop-color="#FF6600"/>
+      <stop offset="100%" stop-color="#FFD700"/>
+    </linearGradient>
+    <linearGradient id="goldLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FF004000"/>
+      <stop offset="20%" stop-color="#FFD700"/>
+      <stop offset="80%" stop-color="#FFD700"/>
+      <stop offset="100%" stop-color="#FF004000"/>
+    </linearGradient>
+    <linearGradient id="barGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#161B22"/>
+      <stop offset="50%" stop-color="#1C2128"/>
+      <stop offset="100%" stop-color="#161B22"/>
+    </linearGradient>
+    <filter id="neonFilter">
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <clipPath id="termClip">
+      <rect x="18" y="18" width="814" height="444" rx="12"/>
+    </clipPath>
+  </defs>
+
+  <!-- Outer frame shadow -->
+  <rect x="4" y="4" width="842" height="472" rx="14" fill="#000000" opacity="0.5"/>
+  
+  <!-- Terminal window -->
+  <rect x="2" y="2" width="846" height="476" rx="14" fill="#0D1117" stroke="#FF004030" stroke-width="1"/>
+  
+  <!-- Bengal rosette spots (subtle background) -->
+  <g clip-path="url(#termClip)">
+    <ellipse class="spot1" cx="80" cy="120" rx="35" ry="25" fill="#FF0040" opacity="0.04" transform="rotate(-15,80,120)"/>
+    <ellipse class="spot2" cx="750" cy="100" rx="40" ry="28" fill="#FFD700" opacity="0.04" transform="rotate(20,750,100)"/>
+    <ellipse class="spot1" cx="200" cy="350" rx="30" ry="22" fill="#FF6600" opacity="0.03" transform="rotate(10,200,350)"/>
+    <ellipse class="spot2" cx="600" cy="280" rx="38" ry="26" fill="#FF0040" opacity="0.04" transform="rotate(-25,600,280)"/>
+    <ellipse class="spot1" cx="400" cy="420" rx="42" ry="30" fill="#FFD700" opacity="0.03" transform="rotate(5,400,420)"/>
+    <ellipse class="spot2" cx="120" cy="250" rx="25" ry="18" fill="#FF6600" opacity="0.03" transform="rotate(30,120,250)"/>
+    <ellipse class="spot1" cx="700" cy="380" rx="32" ry="24" fill="#FF0040" opacity="0.03" transform="rotate(-10,700,380)"/>
+    <ellipse class="spot2" cx="500" cy="150" rx="28" ry="20" fill="#FFD700" opacity="0.04" transform="rotate(15,500,150)"/>
+    <circle class="spot1" cx="350" cy="200" r="18" fill="#FF0040" opacity="0.02"/>
+    <circle class="spot2" cx="150" cy="430" r="22" fill="#FF6600" opacity="0.02"/>
+    
+    <!-- Scanline effect -->
+    <rect class="scanline" x="20" y="-10" width="810" height="2" fill="#FF004015" rx="1"/>
+  </g>
+
+  <!-- Title bar background -->
+  <rect x="2" y="2" width="846" height="40" rx="14" fill="#161B22"/>
+  <rect x="2" y="28" width="846" height="14" fill="#161B22"/>
+  <line x1="2" y1="42" x2="848" y2="42" stroke="#30363D" stroke-width="1"/>
+
+  <!-- Traffic lights -->
+  <circle cx="28" cy="22" r="7" fill="#FF5F57"/>
+  <circle cx="50" cy="22" r="7" fill="#FEBC2E"/>
+  <circle cx="72" cy="22" r="7" fill="#28C840"/>
+  
+  <!-- Inner dots for traffic lights -->
+  <circle cx="28" cy="22" r="3" fill="#FF5F57" opacity="0.6"/>
+  <circle cx="50" cy="22" r="3" fill="#FEBC2E" opacity="0.6"/>
+  <circle cx="72" cy="22" r="3" fill="#28C840" opacity="0.6"/>
+
+  <!-- Terminal title -->
+  <text x="425" y="27" text-anchor="middle" font-family="'SF Mono','Fira Code','Cascadia Code','Consolas',monospace" font-size="12" fill="#8B949E" font-weight="500">nitro@trk:~/identity — bash — 850×480</text>
+
+  <!-- === TERMINAL CONTENT === -->
+  
+  <!-- Command 1: whoami -->
+  <text x="30" y="72" font-family="'SF Mono','Fira Code','Cascadia Code','Consolas',monospace" font-size="13">
+    <tspan fill="#7EE787" font-weight="bold">nitro</tspan><tspan fill="#8B949E">@</tspan><tspan fill="#FF0040" font-weight="bold">trk</tspan><tspan fill="#8B949E">:</tspan><tspan fill="#79C0FF">~</tspan><tspan fill="#C9D1D9">$ </tspan><tspan fill="#E6EDF3">whoami</tspan>
+  </text>
+
+  <!-- BIG NAME with neon gradient + glow -->
+  <text class="glow-red" x="425" y="118" text-anchor="middle" font-family="'SF Mono','Fira Code','Cascadia Code','Consolas',monospace" font-size="52" font-weight="900" fill="url(#neonRed)" letter-spacing="8">NITROD3</text>
+  
+  <!-- Gold subtitle line -->
+  <line x1="130" y1="135" x2="720" y2="135" stroke="url(#goldLine)" stroke-width="1"/>
+  <text class="glow-gold" x="425" y="158" text-anchor="middle" font-family="'SF Mono','Fira Code','Cascadia Code','Consolas',monospace" font-size="14" fill="#FFD700" font-weight="600" letter-spacing="3">Ayden  ·  TRK TEAM 🔴  ·  AT DIGITAL LLC  ·  France 🇫🇷</text>
+  <line x1="130" y1="168" x2="720" y2="168" stroke="url(#goldLine)" stroke-width="1"/>
+
+  <!-- Command 2: cat identity.json -->
+  <text x="30" y="200" font-family="'SF Mono','Fira Code','Cascadia Code','Consolas',monospace" font-size="13">
+    <tspan fill="#7EE787" font-weight="bold">nitro</tspan><tspan fill="#8B949E">@</tspan><tspan fill="#FF0040" font-weight="bold">trk</tspan><tspan fill="#8B949E">:</tspan><tspan fill="#79C0FF">~</tspan><tspan fill="#C9D1D9">$ </tspan><tspan fill="#E6EDF3">cat identity.json</tspan>
+  </text>
+
+  <!-- JSON block -->
+  <text x="30" y="225" font-family="'SF Mono','Fira Code','Cascadia Code','Consolas',monospace" font-size="13" fill="#C9D1D9">{</text>
+  
+  <text x="50" y="248" font-family="'SF Mono','Fira Code','Cascadia Code','Consolas',monospace" font-size="13">
+    <tspan fill="#FF0040">"alias"</tspan><tspan fill="#8B949E">: </tspan><tspan fill="#A5D6FF">"NitroD3"</tspan><tspan fill="#8B949E">,</tspan>
+  </text>
+  <text x="50" y="270" font-family="'SF Mono','Fira Code','Cascadia Code','Consolas',monospace" font-size="13">
+    <tspan fill="#FF6600">"age"</tspan><tspan fill="#8B949E">: </tspan><tspan fill="#79C0FF">29</tspan><tspan fill="#8B949E">,</tspan>
+  </text>
+  <text x="50" y="292" font-family="'SF Mono','Fira Code','Cascadia Code','Consolas',monospace" font-size="13">
+    <tspan fill="#FFD700">"coding_since"</tspan><tspan fill="#8B949E">: </tspan><tspan fill="#A5D6FF">"2006 (age 9)"</tspan><tspan fill="#8B949E">,</tspan>
+  </text>
+  <text x="50" y="314" font-family="'SF Mono','Fira Code','Cascadia Code','Consolas',monospace" font-size="13">
+    <tspan fill="#8B00FF">"experience"</tspan><tspan fill="#8B949E">: </tspan><tspan fill="#A5D6FF">"20 years — self-taught"</tspan><tspan fill="#8B949E">,</tspan>
+  </text>
+  <text x="50" y="336" font-family="'SF Mono','Fira Code','Cascadia Code','Consolas',monospace" font-size="13">
+    <tspan fill="#00D4FF">"empire"</tspan><tspan fill="#8B949E">: </tspan><tspan fill="#A5D6FF">"90+ sites · 90+ repos"</tspan><tspan fill="#8B949E">,</tspan>
+  </text>
+  <text x="50" y="358" font-family="'SF Mono','Fira Code','Cascadia Code','Consolas',monospace" font-size="13">
+    <tspan fill="#28C840">"mode"</tspan><tspan fill="#8B949E">: </tspan><tspan fill="#A5D6FF">"Full Stack + Bug Bounty + Nocturnal"</tspan><tspan fill="#8B949E">,</tspan>
+  </text>
+  <text x="50" y="380" font-family="'SF Mono','Fira Code','Cascadia Code','Consolas',monospace" font-size="13">
+    <tspan fill="#FF0040">"sleep.exe"</tspan><tspan fill="#8B949E">: </tspan><tspan fill="#FFA198">"ERROR 404 — NOT FOUND"</tspan>
+  </text>
+  
+  <text x="30" y="402" font-family="'SF Mono','Fira Code','Cascadia Code','Consolas',monospace" font-size="13" fill="#C9D1D9">}</text>
+
+  <!-- Command 3: conquer -->
+  <text x="30" y="432" font-family="'SF Mono','Fira Code','Cascadia Code','Consolas',monospace" font-size="13">
+    <tspan fill="#7EE787" font-weight="bold">nitro</tspan><tspan fill="#8B949E">@</tspan><tspan fill="#FF0040" font-weight="bold">trk</tspan><tspan fill="#8B949E">:</tspan><tspan fill="#79C0FF">~</tspan><tspan fill="#C9D1D9">$ </tspan><tspan fill="#E6EDF3">./conquer.sh --no-sleep --bengal-mode</tspan>
+  </text>
+  
+  <!-- Blinking cursor -->
+  <rect class="cursor" x="430" y="419" width="9" height="17" rx="1" fill="#FF0040"/>
+
+  <!-- === STATUS BAR === -->
+  <rect x="2" y="448" width="846" height="30" rx="0" fill="url(#barGrad)"/>
+  <rect x="2" y="462" width="846" height="16" rx="14" fill="url(#barGrad)"/>
+  <line x1="2" y1="448" x2="848" y2="448" stroke="#30363D" stroke-width="1"/>
+  
+  <!-- Status items -->
+  <circle class="status-dot" cx="24" cy="464" r="4"/>
+  <text x="34" y="468" font-family="'SF Mono','Fira Code','Cascadia Code','Consolas',monospace" font-size="11" fill="#28C840" font-weight="600">ONLINE</text>
+  <text x="100" y="468" font-family="'SF Mono','Fira Code','Cascadia Code','Consolas',monospace" font-size="11" fill="#30363D">│</text>
+  <text x="115" y="468" font-family="'SF Mono','Fira Code','Cascadia Code','Consolas',monospace" font-size="11" fill="#FFD700">🐆 Bengal Mode</text>
+  <text x="250" y="468" font-family="'SF Mono','Fira Code','Cascadia Code','Consolas',monospace" font-size="11" fill="#30363D">│</text>
+  <text x="265" y="468" font-family="'SF Mono','Fira Code','Cascadia Code','Consolas',monospace" font-size="11" fill="#FF0040" font-weight="700">TRK 🔴</text>
+  <text x="345" y="468" font-family="'SF Mono','Fira Code','Cascadia Code','Consolas',monospace" font-size="11" fill="#30363D">│</text>
+  <text x="360" y="468" font-family="'SF Mono','Fira Code','Cascadia Code','Consolas',monospace" font-size="11" fill="#8B949E">uptime:</text>
+  <text x="425" y="468" font-family="'SF Mono','Fira Code','Cascadia Code','Consolas',monospace" font-size="11" fill="#C9D1D9" font-weight="600">20 years</text>
+  <text x="510" y="468" font-family="'SF Mono','Fira Code','Cascadia Code','Consolas',monospace" font-size="11" fill="#30363D">│</text>
+  <text x="525" y="468" font-family="'SF Mono','Fira Code','Cascadia Code','Consolas',monospace" font-size="11" fill="#8B949E">sites:</text>
+  <text x="580" y="468" font-family="'SF Mono','Fira Code','Cascadia Code','Consolas',monospace" font-size="11" fill="#FF6600" font-weight="600">90+</text>
+  <text x="615" y="468" font-family="'SF Mono','Fira Code','Cascadia Code','Consolas',monospace" font-size="11" fill="#30363D">│</text>
+  <text x="630" y="468" font-family="'SF Mono','Fira Code','Cascadia Code','Consolas',monospace" font-size="11" fill="#8B949E">repos:</text>
+  <text x="685" y="468" font-family="'SF Mono','Fira Code','Cascadia Code','Consolas',monospace" font-size="11" fill="#00D4FF" font-weight="600">90+</text>
+  <text x="720" y="468" font-family="'SF Mono','Fira Code','Cascadia Code','Consolas',monospace" font-size="11" fill="#30363D">│</text>
+  <text x="735" y="468" font-family="'SF Mono','Fira Code','Cascadia Code','Consolas',monospace" font-size="11" fill="#C9D1D9">🇫🇷 France</text>
+
+  <!-- Neofetch-style color palette -->
+  <rect x="560" y="395" width="30" height="12" rx="2" fill="#FF0040"/>
+  <rect x="594" y="395" width="30" height="12" rx="2" fill="#FF6600"/>
+  <rect x="628" y="395" width="30" height="12" rx="2" fill="#FFD700"/>
+  <rect x="662" y="395" width="30" height="12" rx="2" fill="#28C840"/>
+  <rect x="696" y="395" width="30" height="12" rx="2" fill="#00D4FF"/>
+  <rect x="730" y="395" width="30" height="12" rx="2" fill="#8B00FF"/>
+  <rect x="764" y="395" width="30" height="12" rx="2" fill="#C9D1D9"/>
+  <rect x="798" y="395" width="30" height="12" rx="2" fill="#0D1117" stroke="#30363D" stroke-width="1"/>
+
+</svg>

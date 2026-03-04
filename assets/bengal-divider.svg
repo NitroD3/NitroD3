@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="850" height="40" viewBox="0 0 850 40">
+  <defs>
+    <style>
+      @keyframes spotPulse1 { 0%,100%{opacity:0.15;} 50%{opacity:0.45;} }
+      @keyframes spotPulse2 { 0%,100%{opacity:0.35;} 50%{opacity:0.12;} }
+      @keyframes spotPulse3 { 0%,100%{opacity:0.2;} 50%{opacity:0.5;} }
+      @keyframes lineGlow { 0%,100%{opacity:0.4;} 50%{opacity:0.8;} }
+      .sp1 { animation: spotPulse1 3s ease-in-out infinite; }
+      .sp2 { animation: spotPulse2 4s ease-in-out infinite; }
+      .sp3 { animation: spotPulse3 5s ease-in-out infinite; }
+      .line-glow { animation: lineGlow 3s ease-in-out infinite; }
+    </style>
+    <linearGradient id="divGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FF004000"/>
+      <stop offset="15%" stop-color="#FF0040"/>
+      <stop offset="30%" stop-color="#FF6600"/>
+      <stop offset="50%" stop-color="#FFD700"/>
+      <stop offset="70%" stop-color="#FF6600"/>
+      <stop offset="85%" stop-color="#FF0040"/>
+      <stop offset="100%" stop-color="#FF004000"/>
+    </linearGradient>
+  </defs>
+  
+  <!-- Center line -->
+  <line class="line-glow" x1="0" y1="20" x2="850" y2="20" stroke="url(#divGrad)" stroke-width="1.5"/>
+  
+  <!-- Bengal rosette spots along the line -->
+  <ellipse class="sp1" cx="85" cy="20" rx="12" ry="8" fill="#FF0040" opacity="0.2" transform="rotate(-10,85,20)"/>
+  <ellipse class="sp2" cx="170" cy="20" rx="9" ry="6" fill="#FF6600" opacity="0.25" transform="rotate(15,170,20)"/>
+  <ellipse class="sp3" cx="255" cy="20" rx="14" ry="9" fill="#FFD700" opacity="0.15" transform="rotate(-5,255,20)"/>
+  <ellipse class="sp1" cx="340" cy="20" rx="10" ry="7" fill="#FF0040" opacity="0.2" transform="rotate(20,340,20)"/>
+  <ellipse class="sp2" cx="425" cy="20" rx="16" ry="10" fill="#FFD700" opacity="0.3" transform="rotate(0,425,20)"/>
+  <ellipse class="sp3" cx="510" cy="20" rx="10" ry="7" fill="#FF0040" opacity="0.2" transform="rotate(-20,510,20)"/>
+  <ellipse class="sp1" cx="595" cy="20" rx="14" ry="9" fill="#FFD700" opacity="0.15" transform="rotate(5,595,20)"/>
+  <ellipse class="sp2" cx="680" cy="20" rx="9" ry="6" fill="#FF6600" opacity="0.25" transform="rotate(-15,680,20)"/>
+  <ellipse class="sp3" cx="765" cy="20" rx="12" ry="8" fill="#FF0040" opacity="0.2" transform="rotate(10,765,20)"/>
+  
+  <!-- Smaller inner spots (rosette cores) -->
+  <ellipse class="sp2" cx="85" cy="20" rx="5" ry="3" fill="#FF004060" transform="rotate(-10,85,20)"/>
+  <ellipse class="sp3" cx="255" cy="20" rx="6" ry="4" fill="#FFD70060" transform="rotate(-5,255,20)"/>
+  <ellipse class="sp1" cx="425" cy="20" rx="7" ry="4" fill="#FFD70070" transform="rotate(0,425,20)"/>
+  <ellipse class="sp2" cx="595" cy="20" rx="6" ry="4" fill="#FFD70060" transform="rotate(5,595,20)"/>
+  <ellipse class="sp1" cx="765" cy="20" rx="5" ry="3" fill="#FF004060" transform="rotate(10,765,20)"/>
+</svg>
