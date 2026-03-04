@@ -4,21 +4,19 @@
 
 <br><br>
 
-<!-- TYPING SVG - GROS ET VISIBLE -->
 <a href="https://github.com/NitroD3">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=FF0040&center=true&vCenter=true&repeat=true&width=800&height=45&lines=🔴+TRK+TEAM+—+We+Don't+Sleep.+We+Conquer." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=FF0040&center=true&vCenter=true&repeat=true&width=800&height=45&lines=%F0%9F%94%B4+TRK+TEAM+%E2%80%94+We+Don't+Sleep.+We+Conquer." alt="Typing SVG" />
 </a>
 
 <br>
 
 <a href="https://github.com/NitroD3">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=888888&center=true&vCenter=true&repeat=true&width=700&height=30&lines=29+ans+•+20+ans+de+code+•+90%2B+sites+live+•+Full+Stack+%2B+Security;Self-taught+since+age+9+•+No+diploma+•+Just+pure+grind+🔥" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=888888&center=true&vCenter=true&repeat=true&width=700&height=30&lines=29+ans+%E2%80%A2+20+ans+de+code+%E2%80%A2+90%2B+sites+live+%E2%80%A2+Full+Stack+%2B+Security;Self-taught+since+age+9+%E2%80%A2+No+diploma+%E2%80%A2+Just+pure+grind+%F0%9F%94%A5" alt="Typing SVG" />
 </a>
 
 <br><br>
 
-<!-- BADGES PRINCIPAUX -->
-<a href="https://github.com/NitroD3"><img src="https://img.shields.io/badge/TEAM-TRK_🔴-FF0040?style=for-the-badge&labelColor=0D1117" /></a>
+<a href="https://github.com/NitroD3"><img src="https://img.shields.io/badge/TEAM-TRK_%F0%9F%94%B4-FF0040?style=for-the-badge&labelColor=0D1117" /></a>
 <a href="https://github.com/NitroD3"><img src="https://img.shields.io/badge/XP-20_YEARS-FF6600?style=for-the-badge&labelColor=0D1117" /></a>
 <a href="https://github.com/NitroD3"><img src="https://img.shields.io/badge/SITES-90+-8B00FF?style=for-the-badge&labelColor=0D1117" /></a>
 <a href="https://github.com/NitroD3"><img src="https://img.shields.io/badge/REPOS-90+-00D4FF?style=for-the-badge&labelColor=0D1117" /></a>
@@ -32,19 +30,13 @@
 
 </div>
 
-<br>
-
-<!-- ══════════════════════════════════════════════════════════ -->
+---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=FF0040" width="60%" />
 
 ## `👤 WHOAMI`
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=FF0040" width="60%" />
 </div>
-
-<br>
 
 <table align="center">
 <tr>
@@ -129,19 +121,13 @@ France
 </tr>
 </table>
 
-<br>
-
-<!-- ══════════════════════════════════════════════════════════ -->
+---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=FF0040" width="60%" />
 
 ## `⚔️ TECH STACK`
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=FF0040" width="60%" />
 </div>
-
-<br>
 
 <div align="center">
 
@@ -210,15 +196,16 @@ France
 <summary><b>🛡️ Security & Hacking — Click to expand</b></summary>
 <br>
 
-<img src="https://skillicons.dev/icons?i=linux,bash,kali,debian&perline=4&theme=dark" />
+<img src="https://skillicons.dev/icons?i=linux,bash&perline=4&theme=dark" />
 
 <br><br>
 
 <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white&labelColor=0D1117" />
 <img src="https://img.shields.io/badge/SQLMap-CC0000?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=0D1117" />
 <img src="https://img.shields.io/badge/Nmap-4B0082?style=for-the-badge&logo=gnometerminal&logoColor=white&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=hackaday&logoColor=white&labelColor=0D1117" />
 <img src="https://img.shields.io/badge/Bug_Bounty-FF0040?style=for-the-badge&logo=hackerone&logoColor=white&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=0D1117" />
 
 </details>
 
@@ -241,46 +228,22 @@ France
 <summary><b>⛓️ Web3 & AI — Click to expand</b></summary>
 <br>
 
-<img src="https://skillicons.dev/icons?i=solidity,ipfs&perline=4&theme=dark" />
-
-<br><br>
-
 <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white&labelColor=0D1117" />
 <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white&labelColor=0D1117" />
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white&labelColor=0D1117" />
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Telegram_Bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Discord_Bot-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0D1117" />
 
 </details>
 
 </div>
 
-<br>
-
-<!-- ══════════════════════════════════════════════════════════ -->
+---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=FF0040" width="60%" />
-
-## `🏆 TROPHIES`
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=FF0040" width="60%" />
-
-<br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=NitroD3&theme=onestar&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7" width="100%" />
-
-</div>
-
-<br>
-
-<!-- ══════════════════════════════════════════════════════════ -->
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=FF0040" width="60%" />
 
 ## `🐍 CONTRIBUTION SNAKE`
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=FF0040" width="60%" />
 
 <br>
 
@@ -292,30 +255,25 @@ France
 
 </div>
 
-<br>
-
-<!-- ══════════════════════════════════════════════════════════ -->
+---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=FF0040" width="60%" />
 
 ## `📊 STATS`
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=FF0040" width="60%" />
-
 <br>
 
 <a href="https://github.com/NitroD3">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=NitroD3&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF0040&icon_color=FF6600&text_color=C9D1D9&count_private=true&include_all_commits=true&ring_color=FF0040" />
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=NitroD3&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF0040&icon_color=FF6600&text_color=C9D1D9&count_private=true&include_all_commits=true&ring_color=FF0040" />
 </a>
 <a href="https://github.com/NitroD3">
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=NitroD3&theme=radical&hide_border=true&background=0D1117&ring=FF0040&fire=FF6600&currStreakLabel=FF0040&sideLabels=C9D1D9&dates=555555" />
+<img width="49%" src="https://streak-stats.demolab.com?user=NitroD3&hide_border=true&background=0D1117&ring=FF0040&fire=FF6600&currStreakLabel=FF0040&sideLabels=C9D1D9&dates=555555&currStreakNum=FFFFFF&sideNums=FFFFFF" />
 </a>
 
 <br>
 
 <a href="https://github.com/NitroD3">
-<img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NitroD3&layout=donut-vertical&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF0040&text_color=C9D1D9&langs_count=8" />
+<img width="35%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NitroD3&layout=donut-vertical&hide_border=true&bg_color=0D1117&title_color=FF0040&text_color=C9D1D9&langs_count=8" />
 </a>
 <a href="https://github.com/NitroD3">
 <img width="63%" src="https://github-readme-activity-graph.vercel.app/graph?username=NitroD3&custom_title=Contribution+Graph&hide_border=true&bg_color=0D1117&color=FF0040&line=FF6600&point=FFFFFF&area=true&area_color=FF004033" />
@@ -323,19 +281,13 @@ France
 
 </div>
 
-<br>
-
-<!-- ══════════════════════════════════════════════════════════ -->
+---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=FF0040" width="60%" />
 
 ## `🌐 EMPIRE`
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=FF0040" width="60%" />
 </div>
-
-<br>
 
 <div align="center">
 
@@ -380,19 +332,13 @@ France
 
 </div>
 
-<br>
-
-<!-- ══════════════════════════════════════════════════════════ -->
+---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=FF0040" width="60%" />
 
 ## `📅 TIMELINE`
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=FF0040" width="60%" />
 </div>
-
-<br>
 
 <div align="center">
 
@@ -409,19 +355,7 @@ France
 
 </div>
 
-<br>
-
-<!-- ══════════════════════════════════════════════════════════ -->
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=FF0040" width="60%" />
-
-## `💡 FOCUS 2026`
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=FF0040" width="60%" />
-</div>
-
-<br>
+---
 
 <div align="center">
 
@@ -433,30 +367,23 @@ France
 |:---|:---|
 | 🌐 **Empire** | Scale 90+ sites to max profitability |
 | 🌐 **Empire** | Automate deployments with custom CI/CD |
-| 🌐 **Empire** | Build internal monitoring dashboard |
 | 💻 **Dev** | Ship Flutter mobile apps |
 | 💻 **Dev** | Advance Laravel VOD platform |
 | 💻 **Dev** | Telegram & Discord bot ecosystem |
 | 🛡️ **Security** | Increase bug bounty payouts |
 | 🛡️ **Security** | Build automated recon pipeline |
 | 💰 **Money** | 90+ sites = 90+ income sources |
-| 💰 **Money** | SMM panel scaling + SaaS products |
 | 🔴 **TRK** | Build in darkness. Ship in silence. |
 
 </details>
 
 </div>
 
-<br>
-
-<!-- ══════════════════════════════════════════════════════════ -->
+---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=FF0040" width="60%" />
 
 ## `🤝 CONNECT`
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=FF0040" width="60%" />
 
 <br>
 
@@ -467,9 +394,7 @@ France
 
 </div>
 
-<br>
-
-<!-- ══════════════════════════════════════════════════════════ -->
+---
 
 <div align="center">
 
@@ -477,12 +402,11 @@ France
 
 <br>
 
-<img src="https://img.shields.io/badge/system.status-ONLINE_🔴-FF0040?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/system.status-ONLINE_%F0%9F%94%B4-FF0040?style=flat-square&labelColor=0D1117" />
 <img src="https://img.shields.io/badge/sleep.exe-NOT_FOUND-333333?style=flat-square&labelColor=0D1117" />
 <img src="https://img.shields.io/badge/sites.live-90+-FF6600?style=flat-square&labelColor=0D1117" />
 <img src="https://img.shields.io/badge/experience-20_years-8B00FF?style=flat-square&labelColor=0D1117" />
 <img src="https://img.shields.io/badge/coding.since-2006_(age_9)-00D4FF?style=flat-square&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/ambition-OVER_9000-FF0040?style=flat-square&labelColor=0D1117" />
 
 <br><br>
 
