@@ -1,21 +1,22 @@
 <div align="center">
 
-<!-- ANIMATED MATRIX RAIN HEADER -->
+<!-- ANIMATED VENOM HEADER -->
 <img src="https://capsule-render.vercel.app/api?type=venom&height=350&text=⚡%20A%20Y%20D%20E%20N%20⚡&fontSize=80&color=0:FF0040,25:FF2D00,50:FF0040,75:8B00FF,100:FF0040&stroke=FF0040&strokeWidth=3&animation=twinkling&fontColor=FFFFFF&desc=TRK%20TEAM%20%7C%20Full%20Stack%20Architect%20%7C%20Bug%20Bounty%20Hunter%20%7C%20Empire%20Builder&descAlignY=78&descSize=18&descAlign=50" width="100%" />
 
 <!-- TERMINAL TYPING EFFECT -->
 <a href="https://github.com/NitroD3">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&duration=2000&pause=500&color=FF0040&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=%24+sudo+./ayden.sh+--mode+beast;%24+%5BTRK+TEAM%5D+System+breach+successful+%E2%9C%93;%24+Loading+90%2B+sites...+%E2%9C%93+Empire+online" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&duration=2000&pause=500&color=FF0040&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=%24+sudo+./ayden.sh+--mode+beast;%24+%5BTRK+TEAM%5D+20+years+of+code+%E2%9C%93;%24+Loading+90%2B+sites...+%E2%9C%93+Empire+online" alt="Typing SVG" />
 </a>
 
 <br>
 
-<!-- ANIMATED BADGES ROW 1 -->
+<!-- ANIMATED BADGES ROW -->
 <a href="https://github.com/NitroD3"><img src="https://img.shields.io/badge/⚡_STATUS-DANGEROUS-ff0040?style=for-the-badge&labelColor=000000&color=ff0040" /></a>
 <a href="https://github.com/NitroD3"><img src="https://img.shields.io/badge/🔴_TEAM-TRK-ff0040?style=for-the-badge&labelColor=000000" /></a>
 <a href="https://github.com/NitroD3"><img src="https://img.shields.io/badge/🛡️_BOUNTY-HUNTER-ff6600?style=for-the-badge&labelColor=000000" /></a>
 <a href="https://github.com/NitroD3"><img src="https://img.shields.io/badge/🌙_HOURS-00:00→06:00-8B00FF?style=for-the-badge&labelColor=000000" /></a>
 <a href="https://github.com/NitroD3"><img src="https://img.shields.io/badge/🌐_SITES-90+-00d4ff?style=for-the-badge&labelColor=000000" /></a>
+<a href="https://github.com/NitroD3"><img src="https://img.shields.io/badge/🎂_CODING_SINCE-2006_(age_9)-FF00FF?style=for-the-badge&labelColor=000000" /></a>
 
 <br><br>
 
@@ -27,7 +28,7 @@
 <br>
 
 <!-- WAVE SEPARATOR -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=12,9,24" width="100%" />
 
 </div>
 
@@ -59,16 +60,17 @@
      █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█    
      ██████████████████████████████████████████████████████████████████████████████████████    
 
-              ⣠⣴⣶⣿⣿⣿⣶⣦⣄          ╔═════════════════════════════╗
-           ⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦        ║  👤 ALIAS: NitroD3          ║
-         ⣰⣿⣿⣿⡿⠛⠁⠀⠈⠛⢿⣿⣿⣿⣆      ║  🔴 TEAM: TRK               ║
-        ⣸⣿⣿⡿⠁ ⚡ TRK ⚡ ⠈⢿⣿⣿⣇     ║  🇫🇷 LOCATION: France        ║
-        ⣿⣿⣿⠃   TEAM    ⠘⣿⣿⣿     ║  💀 ROLE: Full Stack Hacker  ║
-        ⢿⣿⣿⡄  EST. 2024  ⢠⣿⣿⡿     ║  🌐 EMPIRE: 90+ Sites       ║
-        ⠸⣿⣿⣿⣄         ⣠⣿⣿⣿⠇     ║  🛡️ SIDE: Bug Bounty        ║
-         ⠹⣿⣿⣿⣷⣤⣀⣀⣤⣾⣿⣿⣿⠏      ║  ⏰ ONLINE: 00:00 - 06:00   ║
-           ⠙⢿⣿⣿⣿⣿⣿⣿⣿⡿⠋        ╚═════════════════════════════╝
-              ⠉⠛⠿⠿⠿⠛⠉
+              ⣠⣴⣶⣿⣿⣿⣶⣦⣄          ╔═══════════════════════════════════╗
+           ⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦        ║  👤 ALIAS: NitroD3                ║
+         ⣰⣿⣿⣿⡿⠛⠁⠀⠈⠛⢿⣿⣿⣿⣆      ║  🔴 TEAM: TRK                     ║
+        ⣸⣿⣿⡿⠁ ⚡ TRK ⚡ ⠈⢿⣿⣿⣇     ║  🇫🇷 LOCATION: France              ║
+        ⣿⣿⣿⠃   TEAM    ⠘⣿⣿⣿     ║  💀 ROLE: Full Stack Hacker        ║
+        ⢿⣿⣿⡄  EST. 2006  ⢠⣿⣿⡿     ║  🌐 EMPIRE: 90+ Sites             ║
+        ⠸⣿⣿⣿⣄         ⣠⣿⣿⣿⠇     ║  🛡️ SIDE: Bug Bounty              ║
+         ⠹⣿⣿⣿⣷⣤⣀⣀⣤⣾⣿⣿⣿⠏      ║  ⏰ ONLINE: 00:00 - 06:00         ║
+           ⠙⢿⣿⣿⣿⣿⣿⣿⣿⡿⠋        ║  🎂 AGE: 29 — Coding since age 9  ║
+              ⠉⠛⠿⠿⠿⠛⠉          ║  💻 20 YEARS OF CODE              ║
+                                 ╚═══════════════════════════════════╝
 ```
 
 </div>
@@ -77,9 +79,7 @@
 
 <div align="center">
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> ABOUT.ME
-
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
+## 🧠 ABOUT.ME
 
 </div>
 
@@ -96,16 +96,18 @@
 """
 
 class Ayden:
-    """🔴 TRK TEAM — One Man Army"""
+    """🔴 TRK TEAM — One Man Army — 20 Years of Code"""
     
     def __init__(self):
         self.alias       = "NitroD3"
         self.real_name   = "Ayden"
+        self.age         = 29  # Born 1997
+        self.coding_since = 2006  # Started at age 9 🔥
+        self.experience  = "20 years"
         self.team        = "⚡ TRK Team ⚡"
         self.role        = "Full Stack Developer & Security Researcher"
         self.location    = "France 🇫🇷"
         self.company     = "AT DIGITAL LLC"
-        self.started     = 2024
         self.websites    = "90+ live and counting"
         self.repos       = "90+ private vaults"
         
@@ -151,11 +153,23 @@ class Ayden:
             self.secure()        # Lock it down
             self.profit()        # Stack the bread
             # self.sleep()       # NameError: name 'sleep' is not defined
+    
+    def timeline(self):
+        return {
+            2006: "🎒 Age 9 — First lines of code. The spark.",
+            2010: "💻 Age 13 — Building websites for fun",
+            2014: "🌐 Age 17 — First freelance clients",
+            2018: "🚀 Age 21 — Full Stack. PHP/JS/Python",
+            2020: "🛡️ Age 23 — Bug Bounty Hunter awakens",
+            2022: "💰 Age 25 — AT DIGITAL LLC founded",
+            2024: "🔴 Age 27 — TRK TEAM formed. 50+ sites",
+            2026: "👑 Age 29 — 90+ sites. 90+ repos. Empire mode."
+        }
 ```
 
 <div align="center">
 
-**`> 90+ sites live • 90+ repos • One man army • TRK Team 🔴`**
+**`> 29 years old • 20 years of code • 90+ sites live • 90+ repos • One man army • TRK Team 🔴`**
 
 </div>
 
@@ -165,9 +179,9 @@ class Ayden:
 
 <div align="center">
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> TECH.ARSENAL
+## ⚔️ TECH.ARSENAL
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=12,9,24" width="100%" />
 
 </div>
 
@@ -295,7 +309,9 @@ class Ayden:
 
 ## 📊 STATS.DASHBOARD
 
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=12,9,24" width="100%" />
+
+<br>
 
 <a href="https://github.com/NitroD3">
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=NitroD3&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF0040&icon_color=FF6600&text_color=FFFFFF&count_private=true&include_all_commits=true&ring_color=FF0040" />
@@ -322,8 +338,6 @@ class Ayden:
 <div align="center">
 
 ## 🔥 EMPIRE.MAP
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
 </div>
 
@@ -431,7 +445,9 @@ Mindset: >
 │  │ TRK OS v3.0                                          [🔴 ARMED]  │  │
 │  ├────────────────────────────────────────────────────────────────────┤  │
 │  │                                                                    │  │
-│  │  ⏰ CODING    ████████████████████████████████████ 00:00 - 06:00   │  │
+│  │  🎂 AGE       ██████████████████████████████████████████ 29 YEARS  │  │
+│  │  💻 CODING    ████████████████████████████████████ 20 YEARS EXP    │  │
+│  │  ⏰ HOURS     ████████████████████████████████████ 00:00 - 06:00   │  │
 │  │  🔴 ATTACK    ██████████████████████████████████░░ 95% ALWAYS ON   │  │
 │  │  ☕ CAFFEINE  █████████████████████████████████░░░ 92% CRITICAL    │  │
 │  │  💤 SLEEP     ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 0% NOT FOUND    │  │
@@ -449,6 +465,16 @@ Mindset: >
 │  │  Ruby          ████░░░░░░░░░░░░░░░░░░░░░░░░  5%                   │  │
 │  │  CSS/SASS      ████░░░░░░░░░░░░░░░░░░░░░░░░  4%                   │  │
 │  │  Solidity      ██░░░░░░░░░░░░░░░░░░░░░░░░░░  3%                   │  │
+│  ├────────────────────────────────────────────────────────────────────┤  │
+│  │  🎯 TIMELINE:                                                     │  │
+│  │  ● 2006 ─ Age 9  ............. 🎒 First lines of code            │  │
+│  │  ● 2010 ─ Age 13 ............. 💻 Building websites               │  │
+│  │  ● 2014 ─ Age 17 ............. 🌐 First freelance clients         │  │
+│  │  ● 2018 ─ Age 21 ............. 🚀 Full Stack mastery              │  │
+│  │  ● 2020 ─ Age 23 ............. 🛡️ Bug Bounty Hunter               │  │
+│  │  ● 2022 ─ Age 25 ............. 💰 AT DIGITAL LLC founded          │  │
+│  │  ● 2024 ─ Age 27 ............. 🔴 TRK TEAM formed                │  │
+│  │  ● 2026 ─ Age 29 ............. 👑 90+ sites · EMPIRE MODE        │  │
 │  ├────────────────────────────────────────────────────────────────────┤  │
 │  │  🎯 DEPLOYMENTS:                                                  │  │
 │  │  ● jaidurab.com .............. 🟢 VOD Platform                    │  │
@@ -511,14 +537,20 @@ TRK 🔴
 
 ## 💭 PHILOSOPHY
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
-
 </div>
 
 > ### *"On ne dort pas. On code. On hack. On build. On ship. On conquer. — TRK Team 🔴"*
 
 ```javascript
 const trkMindset = {
+  veteran: {
+    age: 29,
+    coding_since: "2006 (age 9)",
+    experience: "20 years",
+    diplomas: 0,
+    bootcamps: 0,
+    determination: Infinity,
+  },
   arsenal: {
     "PHP/Laravel":  "Pour bâtir des empires web",
     "Python":       "Pour les bots, scrapers, et exploits",
@@ -530,7 +562,8 @@ const trkMindset = {
     "🔴 Ship first. Optimize later.",
     "🔴 Break it before someone else does.",
     "🔴 Google > University. Always.",
-    "🔴 Build in silence. Let success make noise."
+    "🔴 Build in silence. Let success make noise.",
+    "🔴 20 years in the game. Still hungry."
   ],
   execute: () => {
     while (true) { code(); hack(); deploy(); profit(); }
@@ -543,11 +576,26 @@ const trkMindset = {
 
 ### 🏆 THE EVOLUTION
 
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900">
-
-**`2024`** 📚 Reading "Développer pour les nuls" → **`2026`** 🔴 **90+ sites • 90+ repos • TRK Team**
-
-**No diploma. No bootcamp. Just code, Red Bull, and determination. 🔴**
+```
+    2006                                                   2026
+     │                                                      │
+     ▼                                                      ▼
+  🎒 Age 9                                          👑 Age 29
+  First code                                      90+ Sites
+     │                                              90+ Repos
+     ├── 2010: Age 13 → Self-taught websites         TRK TEAM
+     ├── 2014: Age 17 → First freelance $$$         Empire Mode
+     ├── 2018: Age 21 → Full Stack Dev               │
+     ├── 2020: Age 23 → Bug Bounty starts            │
+     ├── 2022: Age 25 → Founded AT DIGITAL           │
+     ├── 2024: Age 27 → TRK TEAM born                │
+     └── 2026: Age 29 → HERE. NOW. 🔴 ──────────────┘
+  
+  ╔══════════════════════════════════════════════════╗
+  ║     20 YEARS: No diploma. No bootcamp.          ║
+  ║     Just code, Red Bull, and determination.     ║
+  ╚══════════════════════════════════════════════════╝
+```
 
 </div>
 
@@ -559,9 +607,7 @@ const trkMindset = {
 
 ## 🤝 CONNECT
 
-<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37c7-4a58-8654-1e8ef85b11f4.gif" width="300">
-
-<br><br>
+<br>
 
 <a href="https://tourak-digital.com"><img src="https://img.shields.io/badge/🏢_Tourak_Digital-FF0040?style=for-the-badge&logoColor=white" /></a>
 <a href="https://jaidurab.com"><img src="https://img.shields.io/badge/🎬_Jaidurab-FF2D00?style=for-the-badge&logoColor=white" /></a>
@@ -580,14 +626,16 @@ const trkMindset = {
 ║                       🔴  T R K   T E A M  🔴                          ║
 ║                                                                          ║
 ║   🌙 Built between 00:00 and 06:00                                     ║
+║   🎂 29 years old — Coding since age 9 — 20 years of code             ║
 ║   💻 90+ websites live and generating revenue                          ║
 ║   📦 90+ private repos — each one a weapon                            ║
-║   🛡️ Breaking things since 2024 — to make them stronger               ║
+║   🛡️ Breaking things since 2006 — to make them stronger               ║
 ║   💰 Every line of code is a revenue stream                           ║
 ║   🔴 TRK Team never sleeps. TRK Team conquers.                        ║
 ║                                                                          ║
-║   > system.status : ONLINE 🔴   > sleep.exe : NOT FOUND               ║
-║   > sites.live    : 90+         > ambition  : OVER 9000               ║
+║   > system.status : ONLINE 🔴   > sleep.exe  : NOT FOUND              ║
+║   > sites.live    : 90+         > experience : 20 YEARS               ║
+║   > coding.since  : 2006        > ambition   : OVER 9000              ║
 ║                                                                          ║
 ║   Self-taught. Self-made. Self-funded. TRK TEAM. 🔴                    ║
 ╚══════════════════════════════════════════════════════════════════════════╝
